@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Aastha+Agrawal..;Web+Developer;Open-Source+Enthusiast..;Learner..;Nice+To+Meet+You+....&center=true"></a></p>
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=400&height=28&lines=Hi👋+I'm+Aastha+Agrawal..;Web+Developer;Open-Source+Enthusiast..;Learner..;Nice+To+Meet+You+....&center=true"></a></p>
     
 
     
@@ -85,6 +85,21 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+
+<br>
+<br>
+
+
+<h2 align="center">About Me 🚀</h2>
+<p align="center">
+👦Pursuing my Bachelors Degree. </br>
+👨‍💻I have experience working with the MERN Stack.</br>
+💻I enjoy building new stuff and learning along the way.</br>
+</p>
+
+<br>
+<br>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AasthaAgrawal444&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=AasthaAgrawal444&theme=radical&_border=false&include_all_commits=true&count_private=true)<br/>
@@ -95,8 +110,5 @@ Here are some ideas to get you started:
 ![](https://github-profile-trophy.vercel.app/?username=AasthaAgrawal444&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <!--START_SECTION:waka-->
 
-```text
-Python   3 hrs 58 mins    █████████████████████████   100.00 %
-```
 <!--END_SECTION:waka-->
 ![views since 2023/06/14](https://visitor-badge-deno.deno.dev/AasthaAgrawal444.AasthaAgrawal444.svg)
