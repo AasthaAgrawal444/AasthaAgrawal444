@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 -->
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=400&height=28&lines=Hi👋+I'm+Aastha+Agrawal..;Web+Developer;Open-Source+Enthusiast..;Learner..;Nice+To+Meet+You+....&center=true"></a></p>
     
-
+<div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=109c5b&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Aastha+Agrawal+%F0%9F%91%8B;Software+Developer;Problem+Solver;Web+Developer;Open-Source+Enthusiast..;Learner..;Nice+To+Meet+You+..." alt="Headline" />
+</div> 
     
 # 🖥️ Technical Skills: 
 <p align="left">
